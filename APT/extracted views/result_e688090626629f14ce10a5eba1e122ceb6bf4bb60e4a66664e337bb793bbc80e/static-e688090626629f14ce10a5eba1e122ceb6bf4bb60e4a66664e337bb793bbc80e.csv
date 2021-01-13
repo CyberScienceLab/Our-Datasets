@@ -1,0 +1,6 @@
+dll,name,address
+Kernel32.dll,LoadLibraryA,0x40889f
+Kernel32.dll,GetProcAddress,0x4088a3
+Kernel32.dll,VirtualProtect,0x4088a7
+Kernel32.dll,VirtualAlloc,0x4088ab
+Kernel32.dll,VirtualFree,0x4088af

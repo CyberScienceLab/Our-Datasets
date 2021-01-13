@@ -1,0 +1,14 @@
+dll,name,address
+KERNEL32.DLL,LoadLibraryA,0x41245c
+KERNEL32.DLL,GetProcAddress,0x412460
+KERNEL32.DLL,VirtualProtect,0x412464
+KERNEL32.DLL,VirtualAlloc,0x412468
+KERNEL32.DLL,VirtualFree,0x41246c
+KERNEL32.DLL,ExitProcess,0x412470
+COMCTL32.dll,InitCommonControls,0x412478
+GDI32.dll,SetBkColor,0x412480
+MSVCRT.dll,memset,0x412488
+OLE32.dll,CoInitialize,0x412490
+SHELL32.dll,ShellExecuteExA,0x412498
+SHLWAPI.dll,PathQuoteSpacesA,0x4124a0
+USER32.dll,IsChild,0x4124a8

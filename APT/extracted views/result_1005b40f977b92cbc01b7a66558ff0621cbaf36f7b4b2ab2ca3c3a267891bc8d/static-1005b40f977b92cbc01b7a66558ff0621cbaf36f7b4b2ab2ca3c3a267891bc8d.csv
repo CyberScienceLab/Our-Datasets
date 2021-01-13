@@ -1,0 +1,9 @@
+dll,name,address
+KERNEL32.dll,HeapAlloc,0x10002010
+KERNEL32.dll,lstrcpyW,0x10002014
+KERNEL32.dll,CreateProcessW,0x10002018
+KERNEL32.dll,GetProcessHeap,0x1000201c
+KERNEL32.dll,DisableThreadLibraryCalls,0x10002020
+ADVAPI32.dll,RegOpenKeyW,0x10002000
+ADVAPI32.dll,RegQueryValueExW,0x10002004
+ADVAPI32.dll,RegCloseKey,0x10002008

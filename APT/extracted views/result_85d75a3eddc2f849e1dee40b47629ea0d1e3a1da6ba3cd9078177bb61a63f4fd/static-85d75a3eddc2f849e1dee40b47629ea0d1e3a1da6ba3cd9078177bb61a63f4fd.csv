@@ -1,0 +1,17 @@
+dll,name,address
+KERNEL32.DLL,LoadLibraryA,0x42d598
+KERNEL32.DLL,GetProcAddress,0x42d59c
+KERNEL32.DLL,GetCommandLineA,0x42d5a0
+KERNEL32.DLL,GetStartupInfoA,0x42d5a4
+KERNEL32.DLL,GetProcessHeap,0x42d5a8
+KERNEL32.DLL,GetLastError,0x42d5ac
+KERNEL32.DLL,GetModuleHandleA,0x42d5b0
+KERNEL32.DLL,TlsGetValue,0x42d5b4
+KERNEL32.DLL,InterlockedIncrement,0x42d5b8
+KERNEL32.DLL,HeapAlloc,0x42d5bc
+KERNEL32.DLL,ExitProcess,0x42d5c0
+ADVAPI32.dll,FreeSid,0x42d5c8
+RPCRT4.dll,UuidCreate,0x42d5d0
+SHELL32.dll,SHGetFolderPathW,0x42d5d8
+WS2_32.dll,WSACleanup,0x42d5e0
+WTSAPI32.dll,WTSFreeMemory,0x42d5e8

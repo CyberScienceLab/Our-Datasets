@@ -1,0 +1,12 @@
+dll,name,address
+KERNEL32.dll,GetStdHandle,0x42e000
+USER32.dll,wsprintfA,0x42e008
+SHELL32.dll,SHGetFolderPathA,0x42e010
+ADVAPI32.dll,SystemFunction036,0x42e018
+KERNEL32.dll,GetModuleFileNameW,0x42e020
+KERNEL32.dll,GetModuleHandleA,0x42e028
+KERNEL32.dll,LoadLibraryA,0x42e02c
+KERNEL32.dll,LocalAlloc,0x42e030
+KERNEL32.dll,LocalFree,0x42e034
+KERNEL32.dll,GetModuleFileNameA,0x42e038
+KERNEL32.dll,ExitProcess,0x42e03c

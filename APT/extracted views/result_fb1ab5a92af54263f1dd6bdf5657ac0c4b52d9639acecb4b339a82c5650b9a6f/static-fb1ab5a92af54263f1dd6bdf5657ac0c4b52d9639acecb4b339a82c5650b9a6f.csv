@@ -1,0 +1,10 @@
+dll,name,address
+KERNEL32.DLL,LoadLibraryA,0x54a628
+KERNEL32.DLL,GetProcAddress,0x54a62c
+KERNEL32.DLL,VirtualProtect,0x54a630
+KERNEL32.DLL,VirtualAlloc,0x54a634
+KERNEL32.DLL,VirtualFree,0x54a638
+KERNEL32.DLL,ExitProcess,0x54a63c
+ADVAPI32.dll,OpenProcessToken,0x54a644
+USER32.dll,wsprintfA,0x54a64c
+WININET.dll,InternetOpenA,0x54a654

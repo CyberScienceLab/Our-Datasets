@@ -1,0 +1,16 @@
+dll,name,address
+KERNEL32.DLL,LoadLibraryA,0x4140dc
+KERNEL32.DLL,GetProcAddress,0x4140e0
+KERNEL32.DLL,VirtualProtect,0x4140e4
+KERNEL32.DLL,VirtualAlloc,0x4140e8
+KERNEL32.DLL,VirtualFree,0x4140ec
+KERNEL32.DLL,ExitProcess,0x4140f0
+ADVAPI32.dll,RegOpenKeyA,0x4140f8
+CRYPT32.dll,CryptUnprotectData,0x414100
+iphlpapi.dll,GetNetworkParams,0x414108
+ole32.dll,OleInitialize,0x414110
+OLEAUT32.dll,SysFreeString,0x414118
+PSAPI.DLL,EnumProcesses,0x414120
+SHELL32.dll,SHGetFolderPathA,0x414128
+USER32.dll,wsprintfA,0x414130
+WS2_32.dll,inet_ntoa,0x414138

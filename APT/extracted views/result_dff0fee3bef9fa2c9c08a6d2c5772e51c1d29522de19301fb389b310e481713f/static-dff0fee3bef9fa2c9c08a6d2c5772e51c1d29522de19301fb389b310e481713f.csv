@@ -1,0 +1,12 @@
+dll,name,address
+KERNEL32.DLL,LoadLibraryA,0x7f0244
+KERNEL32.DLL,GetProcAddress,0x7f0248
+KERNEL32.DLL,VirtualProtect,0x7f024c
+KERNEL32.DLL,VirtualAlloc,0x7f0250
+KERNEL32.DLL,VirtualFree,0x7f0254
+KERNEL32.DLL,ExitProcess,0x7f0258
+ADVAPI32.dll,OpenProcessToken,0x7f0260
+GDI32.dll,SetPixel,0x7f0268
+gdiplus.dll,GdipFree,0x7f0270
+WININET.dll,InternetOpenA,0x7f0278
+WS2_32.dll,WSAStartup,0x7f0280

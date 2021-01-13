@@ -1,0 +1,15 @@
+dll,name,address
+KERNEL32.dll,CloseHandle,0x10061000
+USER32.dll,SetProcessWindowStation,0x10061008
+ADVAPI32.dll,ControlService,0x10061010
+SHELL32.dll,SHGetFolderPathA,0x10061018
+WINHTTP.dll,WinHttpConnect,0x10061020
+SHLWAPI.dll,PathFileExistsA,0x10061028
+imagehlp.dll,MakeSureDirectoryPathExists,0x10061030
+KERNEL32.dll,GetModuleFileNameW,0x10061038
+KERNEL32.dll,GetModuleHandleA,0x10061040
+KERNEL32.dll,LoadLibraryA,0x10061044
+KERNEL32.dll,LocalAlloc,0x10061048
+KERNEL32.dll,LocalFree,0x1006104c
+KERNEL32.dll,GetModuleFileNameA,0x10061050
+KERNEL32.dll,ExitProcess,0x10061054

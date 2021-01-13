@@ -1,0 +1,13 @@
+dll,name,address
+KERNEL32.DLL,LoadLibraryA,0x4c45b0
+KERNEL32.DLL,GetProcAddress,0x4c45b4
+KERNEL32.DLL,VirtualProtect,0x4c45b8
+KERNEL32.DLL,VirtualAlloc,0x4c45bc
+KERNEL32.DLL,VirtualFree,0x4c45c0
+KERNEL32.DLL,ExitProcess,0x4c45c4
+advapi32.dll,RegCloseKey,0x4c45cc
+comctl32.dll,ImageList_Add,0x4c45d4
+gdi32.dll,SaveDC,0x4c45dc
+oleaut32.dll,VariantCopy,0x4c45e4
+user32.dll,GetDC,0x4c45ec
+version.dll,VerQueryValueA,0x4c45f4

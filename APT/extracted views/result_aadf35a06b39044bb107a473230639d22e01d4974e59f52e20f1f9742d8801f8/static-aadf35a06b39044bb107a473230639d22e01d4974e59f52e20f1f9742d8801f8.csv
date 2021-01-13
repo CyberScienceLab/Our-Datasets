@@ -1,0 +1,17 @@
+dll,name,address
+kernel32.dll,GetProcAddress,0x4fc9fc
+kernel32.dll,GetModuleHandleA,0x4fca00
+kernel32.dll,LoadLibraryA,0x4fca04
+user32.dll,GetKeyboardType,0x4fcc1c
+advapi32.dll,RegQueryValueExA,0x4fcc24
+oleaut32.dll,SysFreeString,0x4fcc2c
+advapi32.dll,RegSetValueExA,0x4fcc34
+version.dll,VerQueryValueA,0x4fcc3c
+gdi32.dll,UnrealizeObject,0x4fcc44
+user32.dll,CreateWindowExA,0x4fcc4c
+oleaut32.dll,SafeArrayPtrOfIndex,0x4fcc54
+comctl32.dll,ImageList_SetIconSize,0x4fcc5c
+shell32.dll,SHGetSpecialFolderPathA,0x4fcc64
+comdlg32.dll,GetSaveFileNameA,0x4fcc6c
+oleaut32.dll,VariantChangeTypeEx,0x4fcc74
+kernel32.dll,RaiseException,0x4fcc7c

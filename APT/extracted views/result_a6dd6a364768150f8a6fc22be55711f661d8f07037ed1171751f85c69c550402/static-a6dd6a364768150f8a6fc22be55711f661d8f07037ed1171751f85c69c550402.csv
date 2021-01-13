@@ -1,0 +1,10 @@
+dll,name,address
+kernel32.dll,LoadLibraryA,0x556e70
+kernel32.dll,GetProcAddress,0x556e74
+kernel32.dll,VirtualAlloc,0x556e78
+kernel32.dll,VirtualFree,0x556e7c
+user32.dll,GetKeyboardType,0x556e84
+advapi32.dll,RegQueryValueExA,0x556e8c
+oleaut32.dll,SysFreeString,0x556e94
+ole32.dll,CoCreateInstance,0x556e9c
+shell32.dll,SHGetSpecialFolderLocation,0x556ea4

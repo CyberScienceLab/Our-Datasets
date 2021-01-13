@@ -1,0 +1,11 @@
+dll,name,address
+SHLWAPI.dll,PathAppendW,0x40202c
+KERNEL32.dll,lstrlenW,0x40200c
+KERNEL32.dll,GlobalFree,0x402010
+KERNEL32.dll,GetCommandLineW,0x402014
+KERNEL32.dll,GlobalAlloc,0x402018
+KERNEL32.dll,CreateProcessW,0x40201c
+USER32.dll,wsprintfW,0x402034
+ADVAPI32.dll,RegOpenKeyExW,0x402000
+ADVAPI32.dll,RegQueryValueExW,0x402004
+SHELL32.dll,SHGetFolderPathW,0x402024

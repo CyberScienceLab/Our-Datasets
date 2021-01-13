@@ -1,0 +1,16 @@
+dll,name,address
+KERNEL32.DLL,LoadLibraryA,0x4db97c
+KERNEL32.DLL,GetProcAddress,0x4db980
+KERNEL32.DLL,VirtualProtect,0x4db984
+KERNEL32.DLL,VirtualAlloc,0x4db988
+KERNEL32.DLL,VirtualFree,0x4db98c
+KERNEL32.DLL,ExitProcess,0x4db990
+advapi32.dll,RegCloseKey,0x4db998
+comctl32.dll,ImageList_Add,0x4db9a0
+comdlg32.dll,PrintDlgA,0x4db9a8
+gdi32.dll,SaveDC,0x4db9b0
+ole32.dll,OleDraw,0x4db9b8
+oleaut32.dll,VariantCopy,0x4db9c0
+user32.dll,GetDC,0x4db9c8
+version.dll,VerQueryValueA,0x4db9d0
+winspool.drv,OpenPrinterA,0x4db9d8

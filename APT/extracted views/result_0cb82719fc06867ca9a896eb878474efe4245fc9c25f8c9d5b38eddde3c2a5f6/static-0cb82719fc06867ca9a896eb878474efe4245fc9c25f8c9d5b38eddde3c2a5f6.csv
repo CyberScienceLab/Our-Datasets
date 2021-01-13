@@ -1,0 +1,11 @@
+dll,name,address
+ntoskrnl.exe,RtlCompareMemory,0x1200c
+ntoskrnl.exe,IoDriverObjectType,0x12010
+ntoskrnl.exe,MmMapLockedPages,0x12014
+ntoskrnl.exe,KeInitializeSpinLock,0x12018
+ntoskrnl.exe,ObReferenceObjectByName,0x1201c
+ntoskrnl.exe,memmove,0x12020
+ntoskrnl.exe,RtlInitUnicodeString,0x12024
+ntoskrnl.exe,ObfDereferenceObject,0x12028
+HAL.dll,KfAcquireSpinLock,0x12000
+HAL.dll,KfReleaseSpinLock,0x12004

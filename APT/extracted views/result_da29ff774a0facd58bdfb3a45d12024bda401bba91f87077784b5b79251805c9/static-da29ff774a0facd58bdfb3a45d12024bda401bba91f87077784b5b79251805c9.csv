@@ -1,0 +1,15 @@
+dll,name,address
+KERNEL32.dll,CreateProcessA,0x433000
+USER32.dll,GetInputState,0x433008
+ADVAPI32.dll,OpenServiceA,0x433010
+SHELL32.dll,ShellExecuteA,0x433018
+imagehlp.dll,MakeSureDirectoryPathExists,0x433020
+VERSION.dll,GetFileVersionInfoSizeA,0x433028
+SHLWAPI.dll,PathFileExistsA,0x433030
+KERNEL32.dll,GetModuleFileNameW,0x433038
+KERNEL32.dll,GetModuleHandleA,0x433040
+KERNEL32.dll,LoadLibraryA,0x433044
+KERNEL32.dll,LocalAlloc,0x433048
+KERNEL32.dll,LocalFree,0x43304c
+KERNEL32.dll,GetModuleFileNameA,0x433050
+KERNEL32.dll,ExitProcess,0x433054

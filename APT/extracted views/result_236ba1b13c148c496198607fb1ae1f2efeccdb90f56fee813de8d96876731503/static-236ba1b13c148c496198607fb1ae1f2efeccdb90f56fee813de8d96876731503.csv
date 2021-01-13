@@ -1,0 +1,9 @@
+dll,name,address
+KERNEL32.DLL,LoadLibraryA,0x416050
+KERNEL32.DLL,GetProcAddress,0x416054
+KERNEL32.DLL,VirtualProtect,0x416058
+KERNEL32.DLL,VirtualAlloc,0x41605c
+KERNEL32.DLL,VirtualFree,0x416060
+KERNEL32.DLL,ExitProcess,0x416064
+ADVAPI32.dll,RegCloseKey,0x41606c
+WS2_32.dll,gethostbyname,0x416074

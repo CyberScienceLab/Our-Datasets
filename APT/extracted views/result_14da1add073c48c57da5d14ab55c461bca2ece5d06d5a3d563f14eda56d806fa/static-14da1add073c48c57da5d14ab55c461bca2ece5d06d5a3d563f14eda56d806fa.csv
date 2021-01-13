@@ -1,0 +1,11 @@
+dll,name,address
+KERNEL32.dll,GetACP,0x424000
+SHELL32.dll,ShellExecuteExA,0x424008
+ADVAPI32.dll,SystemFunction036,0x424010
+KERNEL32.dll,GetModuleFileNameW,0x424018
+KERNEL32.dll,GetModuleHandleA,0x424020
+KERNEL32.dll,LoadLibraryA,0x424024
+KERNEL32.dll,LocalAlloc,0x424028
+KERNEL32.dll,LocalFree,0x42402c
+KERNEL32.dll,GetModuleFileNameA,0x424030
+KERNEL32.dll,ExitProcess,0x424034
