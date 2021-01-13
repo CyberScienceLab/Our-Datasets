@@ -1,3 +1,0 @@
-dll,name,address
-Kernel32.dll,LoadLibraryA,0x41c035
-Kernel32.dll,GetProcAddress,0x41c039

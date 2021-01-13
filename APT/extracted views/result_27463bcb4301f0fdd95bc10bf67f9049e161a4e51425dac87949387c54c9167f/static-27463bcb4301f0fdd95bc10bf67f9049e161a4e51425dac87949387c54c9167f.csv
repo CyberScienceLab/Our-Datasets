@@ -1,9 +1,0 @@
-dll,name,address
-KERNEL32.DLL,LoadLibraryA,0x6582d4
-KERNEL32.DLL,GetProcAddress,0x6582d8
-KERNEL32.DLL,VirtualProtect,0x6582dc
-KERNEL32.DLL,VirtualAlloc,0x6582e0
-KERNEL32.DLL,VirtualFree,0x6582e4
-KERNEL32.DLL,ExitProcess,0x6582e8
-WININET.dll,InternetOpenA,0x6582f0
-WS2_32.dll,WSAStartup,0x6582f8

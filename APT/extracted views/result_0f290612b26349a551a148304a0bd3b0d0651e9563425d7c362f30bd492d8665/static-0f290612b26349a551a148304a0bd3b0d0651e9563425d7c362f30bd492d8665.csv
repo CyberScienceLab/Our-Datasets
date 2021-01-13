@@ -1,3 +1,0 @@
-dll,name,address
-KERNEL32.dll,LoadLibraryA,0x42d000
-KERNEL32.dll,GetProcAddress,0x42d004

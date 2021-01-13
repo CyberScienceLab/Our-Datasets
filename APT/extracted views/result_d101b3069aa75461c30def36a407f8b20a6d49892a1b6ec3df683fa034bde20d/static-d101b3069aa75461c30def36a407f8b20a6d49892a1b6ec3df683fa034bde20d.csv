@@ -1,3 +1,0 @@
-dll,name,address
-kernel32.dll,lstrcpy,0x4b7033
-comctl32.dll,InitCommonControls,0x4b703b

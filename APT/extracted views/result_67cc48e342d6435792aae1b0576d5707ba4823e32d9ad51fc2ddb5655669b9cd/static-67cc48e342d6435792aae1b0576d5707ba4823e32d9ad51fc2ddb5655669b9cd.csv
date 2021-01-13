@@ -1,9 +1,0 @@
-dll,name,address
-KERNEL32.DLL,LoadLibraryA,0x4fdec0
-KERNEL32.DLL,GetProcAddress,0x4fdec4
-KERNEL32.DLL,VirtualProtect,0x4fdec8
-KERNEL32.DLL,VirtualAlloc,0x4fdecc
-KERNEL32.DLL,VirtualFree,0x4fded0
-KERNEL32.DLL,ExitProcess,0x4fded4
-ADVAPI32.dll,SystemFunction036,0x4fdedc
-SHELL32.dll,ShellExecuteExA,0x4fdee4

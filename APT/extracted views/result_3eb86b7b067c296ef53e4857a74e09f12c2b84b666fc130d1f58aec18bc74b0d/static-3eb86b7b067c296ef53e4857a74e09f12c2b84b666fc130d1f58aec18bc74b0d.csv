@@ -1,9 +1,0 @@
-dll,name,address
-KERNEL32.DLL,LoadLibraryA,0x4462c0
-KERNEL32.DLL,GetProcAddress,0x4462c4
-KERNEL32.DLL,VirtualProtect,0x4462c8
-KERNEL32.DLL,VirtualAlloc,0x4462cc
-KERNEL32.DLL,VirtualFree,0x4462d0
-KERNEL32.DLL,ExitProcess,0x4462d4
-USER32.dll,MessageBoxA,0x4462dc
-WS2_32.dll,ntohl,0x4462e4
